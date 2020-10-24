@@ -1,7 +1,7 @@
 yes = "Yes"
 no = "No"
 
-print("This is to show if louis is sus or not")
+print("This is to show if you are sus or not")
 
 name = input("What is your name cunt ")
 print("Welcome" + name + "!")
